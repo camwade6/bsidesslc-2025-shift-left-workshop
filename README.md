@@ -8,7 +8,7 @@ This workshop is held at `BSides SLC` on `April 10th 2025` at `10am`.
 
 ## Workshop Outline
 
-*Shifting Left: A Hands-on Introductory Guide to DevSecOps* is a two hour workshop where participants get an introduction to baking security into the software development process and leveraging DevSecOps tooling to support this. 
+*Shifting Left: A Hands-on Introductory Guide to DevSecOps* is a two hour workshop where participants get an introduction to baking security into the software development process and leveraging DevSecOps tooling to support this.
 
 Attendees will learn about setting up a GitHub environment which includes security tools such as CodeQL. Students will then progress into learning how to use DevSecOps pipelines to detect security issues such as accidentally committed secrets.
 
@@ -18,11 +18,11 @@ The workshop will then wrap up with tips on how to handle secure deployments and
 
 In order to fully participate in this workshop you will need a GitHub account.
 
-You can obtain this by signing up at http://www.github.com. 
+You can obtain this by signing up at http://www.github.com.
 
 Students will be able to sign up for a .edu account which comes with some added bonuses, such as being able to setup private repositories for free.
 
-Once your account is setup, you will need to `Fork` and `Clone` this repository or spin up a Codespace environment. 
+Once your account is setup, you will need to `Fork` and `Clone` this repository or spin up a Codespace environment.
 
 
 ## Working In The Repository Scanning
@@ -37,7 +37,7 @@ Here we cover some repository scanning techniques, including secrets scanning an
 
 3. Detecting security vulnerabilities within the repository. Students are introduced to the concept of detecting security vulnerabilities in the source code repository. A general overview of techniques and approaches is given, as well as those specific to GitHub.[Module 3:Detecting Security vulnerabilities](https://github.com/tweag/bsidesslc-2025-shift-left-workshop/tree/main/course#module-3handling-secrets-in-github)
 
-4. Vulnerable dependency detection. GitHub's dependabot provides a mechanism for analyzing the dependencies associated with a project and understanding if they contain security vulnerabilities. Walkthrough of dependabot is performed. [Module 4:Vulnerable dependencies](https://github.com/tweag/bsidesslc-2025-shift-left-workshop/tree/main/course#module-4vulnerable-dependencies) 
+4. Vulnerable dependency detection. GitHub's dependabot provides a mechanism for analyzing the dependencies associated with a project and understanding if they contain security vulnerabilities. Walkthrough of dependabot is performed. [Module 4:Vulnerable dependencies](https://github.com/tweag/bsidesslc-2025-shift-left-workshop/tree/main/course#module-4vulnerable-dependencies)
 
 ### Hour 2
 
@@ -52,4 +52,3 @@ Here we cover some repository scanning techniques, including secrets scanning an
 Discussion of future trends in this space.
 
 Recap of what we've learned
-
